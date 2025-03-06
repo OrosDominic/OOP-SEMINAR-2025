@@ -3,7 +3,7 @@
 class Caine {
     public:
     bool manca() {
-        std::cout<<"Caine a mancat";
+        std::cout<<"Caine a manca";
         return true;
     }
     int setAge(int newage) {
